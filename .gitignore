@@ -1,0 +1,12 @@
+# Ignorar dados locais
+Dados/
+
+# Ignorar arquivos grandes de dados e exportações
+*.csv
+*.xlsx
+*.zip
+*.rar
+
+# Ignorar checkpoints e cache do Jupyter
+.ipynb_checkpoints/
+__pycache__/
